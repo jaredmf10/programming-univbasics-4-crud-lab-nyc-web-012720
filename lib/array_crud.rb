@@ -1,4 +1,4 @@
-$universal_array = [jared, brittany, loki]
+$universal_array = [array, element]
 
 def create_an_empty_array
   empty_array = []
