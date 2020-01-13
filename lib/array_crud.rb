@@ -1,4 +1,3 @@
-$universal_array = [array, element]
 
 def create_an_empty_array
   empty_array = []
@@ -9,7 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-universal_array << arrays
+  sticks = [bure, beezer, ovi]
+  sticks << sid
 end
 
 def add_element_to_start_of_array(array, element)
